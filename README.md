@@ -46,4 +46,6 @@
   + font-size
   + margin-top
   + font-weight
+  + @media
+  + text-align
   
