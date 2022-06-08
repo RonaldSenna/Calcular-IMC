@@ -1,6 +1,6 @@
 <h1>Calcular IMC</h1>
   
-  > status: Concluido.✅
+  > status: Concluido✅
 
   ### É um site criado com o intuito de fornecer o IMC do usuário 
 
